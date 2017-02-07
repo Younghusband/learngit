@@ -1,7 +1,0 @@
-这里是win7添加的内容
-
-<<<<<<< HEAD
-master&win7
-=======
-master&win7
->>>>>>> win7
